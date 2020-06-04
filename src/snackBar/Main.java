@@ -46,6 +46,8 @@ public class Main
 		System.out.println("Bob's Cash " + bob.getCashOnHand());
 		System.out.println("Remaining " + pretzel.getName() + "'s: " + pretzel.getQuantity());
 
+		//Stretch
+
 	}
 
 }
